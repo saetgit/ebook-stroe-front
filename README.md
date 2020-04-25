@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ebook
 
 ## Project setup
@@ -22,3 +23,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# ebook-stroe-front
+For university project
+>>>>>>> c3c1bd1b2ca84781de590d38e6613ddae4e77ee5
